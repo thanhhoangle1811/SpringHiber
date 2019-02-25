@@ -1,1 +1,4 @@
-controller\LoginController.class
+hoang\dao\DepartmentDAO.class
+hoang\dao\impl\DepartmentDAOImpl.class
+hoang\entity\Department.class
+hoang\controller\LoginController.class

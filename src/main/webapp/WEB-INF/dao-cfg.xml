@@ -6,7 +6,7 @@
  
  
  
- <bean id="departmentDAO" class="org.o7planning.dao.impl.DepartmentDAOImpl">
+ <bean id="departmentDAO" class="hoang.dao.impl.DepartmentDAOImpl">
      <property name="sessionFactory" ref="mySessionFactory" />
  </bean>
  

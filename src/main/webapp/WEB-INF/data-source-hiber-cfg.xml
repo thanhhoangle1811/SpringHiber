@@ -19,7 +19,7 @@
  
       <property name="annotatedClasses">
           <list>
-              <value>org.o7planning.entity.Department</value>
+              <value>hoang.entity.Department</value>
           </list>
       </property>
  
